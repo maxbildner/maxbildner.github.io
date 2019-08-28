@@ -1,6 +1,15 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
+/* My New Styles */
+
+.job-title {
+	font-size: 1.3rem;
+}
+
+
+
+
 /*
 	Photon by HTML5 UP
 	html5up.net | @ajlkn
