@@ -375,7 +375,8 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			/* width: 33.33333%; 	for 3 in a row!! */
+			width: 50%; 		 /* for 2 in a row! */
 		}
 
 		.row > .off-4 {
